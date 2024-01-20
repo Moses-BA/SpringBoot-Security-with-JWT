@@ -1,4 +1,4 @@
-## SpringBoot-Security-with-JWT
+# SpringBoot-Security-with-JWT
 
 This repository demonstrates how to implement robust authentication and authorization in a Spring Boot application using JSON Web Tokens (JWTs).
 
